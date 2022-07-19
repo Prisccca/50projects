@@ -13,3 +13,7 @@ Projeto baseado na reprodução dos projetos do curso 50 Projects In 50 Days - H
 04 - Hidden Search Widget (17/07/22)
 
 05 - Blurry Loading (17/07/22)
+
+06 - Scroll Animation ( 18/07/22)
+
+07 - Split_Landing_Page ( 18/07/22 )
