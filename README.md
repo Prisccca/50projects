@@ -17,3 +17,7 @@ Projeto baseado na reprodução dos projetos do curso 50 Projects In 50 Days - H
 06 - Scroll Animation ( 18/07/22)
 
 07 - Split_Landing_Page ( 18/07/22 )
+
+08 - Form Wave Animation (19/08/22)
+
+09 - Sound Board (19/08/22)
