@@ -1,6 +1,6 @@
 # 50Projects
 
-Projeto baseado na reprodução dos projetos do curso 50 Projects In 50 Days - HTML, CSS, Javascript. - UDEMY
+Projetos baseado na reprodução dos projetos do curso 50 Projects In 50 Days - HTML, CSS, Javascript. - UDEMY
 
 00 - Project Starter : Pasta com configurações básicas para todos os projetos.
 
@@ -21,3 +21,5 @@ Projeto baseado na reprodução dos projetos do curso 50 Projects In 50 Days - H
 08 - Form Wave Animation (19/08/22)
 
 09 - Sound Board (19/08/22)
+
+10 - Dad Jokes ( 20/07/22)
