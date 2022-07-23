@@ -1,6 +1,8 @@
 # 50Projects
 
-Projetos baseado na reprodução dos projetos do curso 50 Projects In 50 Days - HTML, CSS, Javascript. - UDEMY
+Projetos reproduzidos a partir do curso 50 Projects In 50 Days - HTML, CSS, Javascript. - UDEMY
+
+Esse repositório contém diversos elementos isolados que podem ser utilizados em projetos maiores.
 
 00 - Project Starter : Pasta com configurações básicas para todos os projetos.
 
@@ -25,3 +27,7 @@ Projetos baseado na reprodução dos projetos do curso 50 Projects In 50 Days - 
 10 - Dad Jokes ( 20/07/22)
 
 11 - Event Key Codes (21/07/22)
+
+12 - FAQ Collapse (22/07/22)
+
+13 - Random Choice Picker (22/07/22)
