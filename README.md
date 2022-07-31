@@ -35,3 +35,11 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 14 - Animated Navigation ( 25 / 07 /22)
 
 15 - Incrementing Counter ( 28/07/22)
+
+16 - Drink Water (30/07/22)
+
+17 - MovieApp ( 30/07/22 )
+
+18 - Background Slider (30/07/22)
+
+19 - Theme Clock (30/07/22)
