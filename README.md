@@ -43,3 +43,5 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 18 - Background Slider (30/07/22)
 
 19 - Theme Clock (30/07/22)
+
+20 - Button Ripple Effect ( 31 /07 /22)
