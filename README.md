@@ -47,3 +47,7 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 20 - Button Ripple Effect ( 31 /07 /22)
 
 21 - Drag N Drop (01/08/22)
+
+22 - Drawing App ( 02 / 08 / 22)
+
+23 - Kinetic CSS Loader ( 02/08/2022)
