@@ -50,4 +50,10 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 
 22 - Drawing App ( 02 / 08 / 22)
 
-23 - Kinetic CSS Loader ( 02/08/2022)
+23 - Kinetic CSS Loader ( 02/08/22)
+
+24 - Content Placeholder (03/08/22)
+
+25 - Sticky Navbar (03/08/22)
+
+26 - Double Vertical Slider (03/08/22)
