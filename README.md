@@ -57,3 +57,7 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 25 - Sticky Navbar (03/08/22)
 
 26 - Double Vertical Slider (03/08/22)
+
+27 - Toast Notification (04/08/2022)
+
+28 - Github Profiles (04/08/2022)

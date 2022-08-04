@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: 	#87CEFA;
+}
+
+.user-form{
+    width: 100%;
+    max-width: 700px;
+}
+
+.user-form input{
+    width: 100%;
+    display: block;
+    background-color: #00BFFF;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    font-family: inherit;
+    font-size: 1rem;
+    box-shadow: inset 0 4px 8px rgba(0,0,0,0.7), 0 5px 10px rgba(0,0,0,0.5);
+    
+}
+
+.user-form input::placeholder{
+    color:#fff;
+}
+
+.user-form input:focus{
+    outline: none;
+}
+
+.card{
+    max-width: 800px;
+    background-color:#00BFFF ;
+    border-radius: 20px;
+    box-shadow:  0 5px 10px rgba(0,0,0,0.9);
+    display: flex;
+    padding: 3rem;
+    margin: 0 1.5rem;
+}
+
+.avatar{
+    border-radius: 50%;
+    border: 10px solid #87CEFA  ;
+    height: 150px;
+    width: 150px;
+    box-shadow:  0 5px 10px rgba(0,0,0,0.9);
+}
+
+.user-info{
+    color:#000;
+    margin-left: 1rem;
+}
+
+.user-info h2{
+    margin-top: 0;
+}
+
+.user-info ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0;
+    max-width: 400px;
+}
+
+.user-info ul li{
+    display: flex;
+    align-items: center;
+}
+
+.user-info ul li strong{
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+}
+
+.repos{
+    text-decoration: none;
+    color: #000;
+    background-color: #87CEFA;
+    font-size: 0.7rem;
+    padding: 0.25rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+    display: inline-block;
+    box-shadow:  0 5px 10px rgba(0,0,0,0.9);
+}
+
+@media(max-width: 500px){
+    .card{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .user-form{
+        max-width: 400px;
+    }
+}
