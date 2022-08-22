@@ -65,3 +65,5 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 29 - Double Heart Click ( 08/08/22)
 
 30 - Auto Text Effect ( 09/08/22)
+
+31 - Password Generator ( 21/ 08 / 22)
