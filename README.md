@@ -58,12 +58,14 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 
 26 - Double Vertical Slider (03/08/22)
 
-27 - Toast Notification (04/08/2022)
+27 - Toast Notification (04/08/22)
 
-28 - Github Profiles (04/08/2022)
+28 - Github Profiles (04/08/22)
 
 29 - Double Heart Click ( 08/08/22)
 
 30 - Auto Text Effect ( 09/08/22)
 
 31 - Password Generator ( 21/ 08 / 22)
+
+32 - Good , Cheap , Fast Checkboxes ( 23/08/22)
