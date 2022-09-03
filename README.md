@@ -36,21 +36,21 @@ Imagens : Pexels, Unsplash, Pinterest
 
 14 - Animated Navigation ( 25 / 07 /22)
 
-15 - Incrementing Counter ( 28/07/22)
+15 - Incrementing Counter (28/07/22)
 
 16 - Drink Water (30/07/22)
 
-17 - MovieApp ( 30/07/22 )
+17 - MovieApp (30/07/22)
 
 18 - Background Slider (30/07/22)
 
 19 - Theme Clock (30/07/22)
 
-20 - Button Ripple Effect ( 31 /07 /22)
+20 - Button Ripple Effect (31/07/22)
 
 21 - Drag N Drop (01/08/22)
 
-22 - Drawing App ( 02 / 08 / 22)
+22 - Drawing App (02/08/22)
 
 23 - Kinetic CSS Loader ( 02/08/22)
 
@@ -64,16 +64,18 @@ Imagens : Pexels, Unsplash, Pinterest
 
 28 - Github Profiles (04/08/22)
 
-29 - Double Heart Click ( 08/08/22)
+29 - Double Heart Click (08/08/22)
 
-30 - Auto Text Effect ( 09/08/22)
+30 - Auto Text Effect (09/08/22)
 
-31 - Password Generator ( 21/ 08 / 22)
+31 - Password Generator (21/08/22)
 
-32 - Good , Cheap , Fast Checkboxes ( 23/08/22)
+32 - Good , Cheap , Fast Checkboxes (23/08/22)
 
-33 - Notes App ( 02/09/22)
+33 - Notes App (02/09/22)
 
 34 - Animated Countdown (03/09/2022)
 
-35 - Image Carousel ( 03/09/2022)
+35 - Image Carousel (03/09/2022)
+
+36 - Hoverboard (03/09/2022)
