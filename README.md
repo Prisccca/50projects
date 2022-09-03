@@ -4,6 +4,8 @@ Projetos reproduzidos a partir do curso 50 Projects In 50 Days - HTML, CSS, Java
 
 Esse repositório contém diversos elementos isolados que podem ser utilizados em projetos maiores.
 
+Imagens : Pexels, Unsplash, Pinterest
+
 00 - Project Starter : Pasta com configurações básicas para todos os projetos.
 
 01 - Expanding Cards (17/07/22)
@@ -73,3 +75,5 @@ Esse repositório contém diversos elementos isolados que podem ser utilizados e
 33 - Notes App ( 02/09/22)
 
 34 - Animated Countdown (03/09/2022)
+
+35 - Image Carousel ( 03/09/2022)
