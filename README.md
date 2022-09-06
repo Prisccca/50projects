@@ -79,3 +79,5 @@ Imagens : Pexels, Unsplash, Pinterest
 35 - Image Carousel (03/09/2022)
 
 36 - Hoverboard (03/09/2022)
+
+37 - Pokedex (06/09/2022)
