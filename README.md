@@ -87,3 +87,5 @@ Imagens : Pexels, Unsplash, Pinterest
 39 - Password Strength Background (08/09/22)
 
 40 - 3D Background Boxes (09/09/22)
+
+41 - Verify Account UI (09/09/22)
