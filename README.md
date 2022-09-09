@@ -83,3 +83,5 @@ Imagens : Pexels, Unsplash, Pinterest
 37 - Pokedex (06/09/2022)
 
 38 - Mobile Tab Navigation (08/09/22)
+
+39 - Password Strength Background (08/09/22)
