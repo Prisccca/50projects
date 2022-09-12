@@ -91,3 +91,19 @@ Imagens : Pexels, Unsplash, Pinterest
 41 - Verify Account UI (09/09/22)
 
 42 - Live User Filter (09/09/22)
+
+43 - Feedback UI Design (10/09/22)
+
+44 - Custom Range Slider (11/09/22)
+
+45 - Netflix Navigation(10/09/22)
+
+46 - Quiz App (11/09/22)
+
+47 - Testimonial Box Switcher (10/09/22)
+
+48 - Random Image Feed (10/09/2022)
+
+49 - To Do List (11/09/22)
+
+50 - Insect Catch Game (11/09/22)
