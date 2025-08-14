@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>00 - Project Starter</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" 
+    integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-700 flex justify-center items-center min-h-screen">
+    
+    <div class="bg-gray-900 p-16 rounded-2xl shadow w-full max-w-sm">
+            <h1 class="text-white text-center text-4xl ">Simple Timer</h1>
+
+            <div id="conic" 
+            class="bg-conic flex items-center justify-center w-60 h-60 mx-auto my-10 rounded-full relative">
+
+            <p id="timer" class="text-blue-200 relative text-5xl z-10">00:00</p>
+
+            <div class="w-[calc(100%-4px)] aspect-square bg-gray-800 rounded-full absolute inset-[2px]"></div>
+
+            <div class="hand h-1/2 absolute top-0">
+                <span
+                    class="w-2 h-2 bg-white rounded-full absolute -top-1 -left-1"></span>
+            </div>
+
+            </div>
+
+            <div class="flex justify-center gap-6">
+                <button
+                id="reset"
+                class="flex justify-center items-center w-10 h-10 bg-blue-300 rounded-full"
+                >
+                <i class="fas fa-refresh"></i>
+                </button>
+
+                <button
+                    id="play"
+                    class="flex justify-center items-center w-10 h-10 bg-blue-300 rounded-full group"
+                    >
+                    <i class="fas fa-play"></i>
+                </button>
+
+            </div>
+        
+    </div>
+
+    
+
+  
+    <script src="./script.js"></script>
+</body>
+</html>

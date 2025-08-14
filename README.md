@@ -18,15 +18,15 @@ Imagens : Pexels, Unsplash, Pinterest
 
 05 - Blurry Loading (17/07/22)
 
-06 - Scroll Animation ( 18/07/22)
+06 - Scroll Animation (18/07/22)
 
-07 - Split_Landing_Page ( 18/07/22 )
+07 - Split_Landing_Page (18/07/22)
 
 08 - Form Wave Animation (19/08/22)
 
 09 - Sound Board (19/08/22)
 
-10 - Dad Jokes ( 20/07/22)
+10 - Dad Jokes (20/07/22)
 
 11 - Event Key Codes (21/07/22)
 
@@ -34,7 +34,7 @@ Imagens : Pexels, Unsplash, Pinterest
 
 13 - Random Choice Picker (22/07/22)
 
-14 - Animated Navigation ( 25 / 07 /22)
+14 - Animated Navigation (25/07/22)
 
 15 - Incrementing Counter (28/07/22)
 
@@ -107,3 +107,5 @@ Imagens : Pexels, Unsplash, Pinterest
 49 - To Do List (11/09/22)
 
 50 - Insect Catch Game (11/09/22)
+
+51 -Bonus Day 02 Simple Timer (14/08/2025)
